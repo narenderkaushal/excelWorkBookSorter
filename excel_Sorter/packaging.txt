@@ -1,0 +1,10 @@
+# Run the Command in order to build without onefile:
+	# To remove the old build from the existing folder:
+		rmdir /s /q build dist __pycache__ excelsorter.spec
+	# Command to build the project
+		python -m PyInstaller --noconsole --onefile --icon="C:\Users\NKaushal\excel_Sorter\appIcon.ico" --icon="C:\Users\NKaushal\excel_Sorter\appIcon.ico" app.py
+	# The below command will show SyntaxError / indentation errors quickly.
+		python -m pyflakes app.py
+		or python -m py_compile app.py
+	# To check more thorough, checks code style, errors, etc.:
+		python -m pylint app.py
