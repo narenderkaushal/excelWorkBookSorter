@@ -1,4 +1,12 @@
 # 📘 Excel Workbook Sorter  
+
+🧑‍💻 Author
+
+Narender Kaushal (NKau$hal)
+Senior Test Consultant | Python Developer
+📎 LinkedIn:
+https://www.linkedin.com/in/narender-kaushal-b72b075/
+
 *A Windows Desktop Utility for Sorting Excel Sheets with Ease*
 
 Excel Workbook Sorter is a professional, user-friendly Windows application built with **Python (Tkinter)** and powered by **openpyxl**, allowing users to:
